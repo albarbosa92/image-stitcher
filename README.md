@@ -2,6 +2,9 @@
 
 A lightweight, memory-safe Windows application designed for researchers and scientists to batch-convert, sequence, and stitch high-resolution microscopy images (SEM, optical, fluorescence) into publication-ready grid figures.
 
+<img width="628" height="798" alt="image" src="https://github.com/user-attachments/assets/92f83a2c-9ed7-4820-8acd-3a14a2ab8462" />
+
+
 ## Key Features
 * **Automatic TIFF Sanitization:** Handles heavy 16-bit and multi-layer microscopy TIFFs using ImageMagick (with automatic Pillow fallback) to prevent memory crashes.
 * **Multi-Folder Selection:** Add images incrementally from different folders and arrange their exact `A, B, C...` sequence before rendering.
